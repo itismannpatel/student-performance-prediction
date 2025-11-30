@@ -23,7 +23,7 @@ A machine learning application that predicts student academic performance based 
 1. **Clone or download the project**
 ```bash
 git clone <repository-url>
-cd student-performance-prediction
+cd student-performance-prediction-main
 ```
 
 2. **Install required packages**
@@ -183,4 +183,5 @@ Educational project for demonstration purposes.
 ## Dataset Citation
 
 P. Cortez and A. Silva. "Using Data Mining to Predict Secondary School Student Performance." 
+
 Proceedings of 5th FUture BUsiness TEChnology Conference (FUBUTEC 2008), pp. 5-12, Porto, Portugal, April 2008.

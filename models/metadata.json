@@ -1,0 +1,55 @@
+{
+    "model_type": "Random Forest",
+    "metrics": {
+        "MAE": 1.137,
+        "MSE": 3.462,
+        "RMSE": 1.861,
+        "R2": 0.831,
+        "Accuracy": 64.56
+    },
+    "cv_results": {
+        "mean_mae": 0.938,
+        "std_mae": 0.083
+    },
+    "all_model_evaluations": {
+        "Random Forest": {
+            "MAE": 1.137,
+            "MSE": 3.462,
+            "RMSE": 1.861,
+            "R2": 0.831,
+            "Accuracy": 64.56
+        },
+        "Gradient Boosting": {
+            "MAE": 1.193,
+            "MSE": 4.08,
+            "RMSE": 2.02,
+            "R2": 0.801,
+            "Accuracy": 63.29
+        },
+        "Linear Regression": {
+            "MAE": 1.489,
+            "MSE": 4.996,
+            "RMSE": 2.235,
+            "R2": 0.756,
+            "Accuracy": 50.63
+        },
+        "Ridge Regression": {
+            "MAE": 1.485,
+            "MSE": 4.989,
+            "RMSE": 2.234,
+            "R2": 0.757,
+            "Accuracy": 50.63
+        },
+        "SVR": {
+            "MAE": 1.697,
+            "MSE": 6.771,
+            "RMSE": 2.602,
+            "R2": 0.67,
+            "Accuracy": 40.51
+        }
+    },
+    "feature_count": 39,
+    "training_samples": 316,
+    "test_samples": 79,
+    "saved_date": "2025-11-19 13:14:15"
+}
